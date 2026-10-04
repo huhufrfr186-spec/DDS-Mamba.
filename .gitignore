@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+assets/*.pth
+runs/
+predictions/

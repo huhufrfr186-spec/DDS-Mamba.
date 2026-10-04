@@ -1,0 +1,5 @@
+torch==2.2.2
+numpy==1.26.4
+Pillow==10.3.0
+# Optional CUDA backend (Linux/WSL2, matching CUDA toolkit required):
+# mamba-ssm==2.2.2
