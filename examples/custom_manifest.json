@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "benchmark": "custom",
+  "split": "inference",
+  "root": "D:/my_video_frames",
+  "sequences": [
+    {
+      "name": "my-video",
+      "frame_dir": "frames",
+      "frame_count": 300,
+      "initial_xywh": [100, 80, 60, 40]
+    }
+  ]
+}
