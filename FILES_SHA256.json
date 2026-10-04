@@ -1,7 +1,7 @@
 {
   ".gitignore": "ced7d34164b5dc2ccd3f213d57011f88780c6eb2f1ea9fd43fb86e248d99fa18",
-  "configs/train.json": "174a0a8d3b0a0d2a29b2eb4736adcddcd003fe7a6c0ff423285bffb1f20c42d3",
-  "configs/train_cuda.json": "bce3ab45a472885e862d994747c00ca943d5b2db196252429f7186da517e5cd8",
+  "configs/train.json": "d409fb0de458ffdc68b960d12e3d79e3df2bc55f5dd0dd2968dde0932f05e9d8",
+  "configs/train_cuda.json": "7f59a65eb416ade9acbd178186e0b3a6ed7f24b312e563a79ed16e34b9c17e16",
   "dds_mamba/__init__.py": "743038efb9ccd2a3928bcc00332d91827eb8682ae2aca589f05e8b8f84c7ac1b",
   "dds_mamba/__main__.py": "cf7390a2508a0fcad4777a4a629fc5212ab655cb45845975995f835676a834e3",
   "dds_mamba/cli.py": "abc32be41e84ae63c2071a491662a504b7f75824eb535c2764ff8122c785c61b",
@@ -20,7 +20,7 @@
   "dds_mamba/training.py": "5b205456fdde1c0b64a37f0a693b86154159a2fd1afde3ed558bcfb25dd16ee0",
   "Dockerfile": "fd94a07eb2eaad337012f1c0be1c9467f57ca26b83d30db06057ec0ed89fc09a",
   "docs/METHOD.md": "7c539f4708ceccc32215bfdc2f0c04cd75930b67aab9ba9cfa96e6d3af1e76a8",
-  "docs/OFFICIAL_EVALUATION.md": "1ba2d5a89455b4214be543e8e880553f206ee41f3580156e86c59df291b51d73",
+  "docs/OFFICIAL_EVALUATION.md": "e3bebe885b7389bea07a913d0894775f7889073f07c63a8883646165f7569640",
   "examples/custom_manifest.json": "8bb3654a90274ec8d48cfb3b025bb0a95cabffaadb00608b0fe4a737a1c7cb35",
   "pyproject.toml": "0582a71ef4668a154d3fc4308906d7a2e06d5727312b0ed537f74c40af5f1523",
   "README.md": "3fd617bb62806171ab091d5c955865890b31030519d5936efd53c35500a159d0",
@@ -28,8 +28,8 @@
   "requirements.txt": "a6da15ca7e4177abf1cee632f52422a512635af734ec7957e8352c959a934228",
   "run_tests.ps1": "d7d5de06077a613ce773de6de76fb3998a0ec66bbfccf6870d919c14af31373f",
   "scripts/check_mamba_backend.py": "a7683021e7303efe83dbd284804dddacbd29913ac691948d72b4abb50d62bab0",
-  "scripts/train_three_seeds.py": "befb0d1a5d2b5eee2bd7c0a1b639079d29b2bd6b2cd1c7f30c2928993b2fb36c",
-  "scripts/validate_real_encoders.py": "e513627ff21bda91a248a879d0c8e885b60807ad7d6ed7146afee3841216bc07",
-  "scripts/vot2020_runner.py": "f4d4cab2bb8405f091dc66f298fe7f7fde61cb3d0edcca5cc3ab4acfa242a80d",
+  "scripts/train_three_seeds.py": "5a8cfe1b6e97469217aa37cc9d86332faf0fe4c1882544d7a937d3afc012c435",
+  "scripts/validate_real_encoders.py": "262c5f6ca160ad8dbc6f2cc9153c1c475bb18a71c2bf7a95520a8d93986b4045",
+  "scripts/vot2020_runner.py": "a3a62f3642e93a4ad8060d864e85ac455b369ad45dc505060c9c43940a050797",
   "tests/test_mechanisms.py": "7733663ee2238ea91f2c6bee7ffb99e71cf6acb3e8de86be1b3936b2247a27af"
 }
